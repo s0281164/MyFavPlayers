@@ -12,15 +12,20 @@ class DetailViewController: UIViewController {
 
     @IBOutlet weak var detailDescriptionLabel: UILabel!
 
-
+    @IBOutlet weak var productImageView: UIImageView!
+    
     func configureView() {
         // Update the user interface for the detail item.
-        if let detail = detailItem {
-            if let label = detailDescriptionLabel {
-                label.text = detail.description
+        if detailItem != nil {
+            if let photo = productImageView {
+                photo.image = UIImage(named:detailItem!)
             }
+        }else{
+            productImageView.image = UIImage(named:"main.jpg")
+            title = "My Players"
         }
     }
+        
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -28,7 +33,7 @@ class DetailViewController: UIViewController {
         configureView()
     }
 
-    var detailItem: NSDate? {
+    var detailItem: String? {
         didSet {
             // Update the view.
             configureView()

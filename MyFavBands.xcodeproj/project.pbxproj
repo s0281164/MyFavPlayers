@@ -13,6 +13,17 @@
 		5D3E061C2339AF6E00018C49 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D3E061A2339AF6E00018C49 /* Main.storyboard */; };
 		5D3E061E2339AF6F00018C49 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D3E061D2339AF6F00018C49 /* Assets.xcassets */; };
 		5D3E06212339AF6F00018C49 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D3E061F2339AF6F00018C49 /* LaunchScreen.storyboard */; };
+		5D3E06332339B62B00018C49 /* cristianoRonaldo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D3E06292339B62B00018C49 /* cristianoRonaldo.jpg */; };
+		5D3E06342339B62B00018C49 /* messi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D3E062A2339B62B00018C49 /* messi.jpg */; };
+		5D3E06352339B62B00018C49 /* modric.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D3E062B2339B62B00018C49 /* modric.jpg */; };
+		5D3E06362339B62B00018C49 /* jamesRodriguez.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D3E062C2339B62B00018C49 /* jamesRodriguez.jpg */; };
+		5D3E06372339B62B00018C49 /* suarez.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D3E062D2339B62B00018C49 /* suarez.jpg */; };
+		5D3E06382339B62B00018C49 /* diegoMaradona.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D3E062E2339B62B00018C49 /* diegoMaradona.jpg */; };
+		5D3E06392339B62B00018C49 /* neymar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D3E062F2339B62B00018C49 /* neymar.jpg */; };
+		5D3E063A2339B62B00018C49 /* pele.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D3E06302339B62B00018C49 /* pele.jpg */; };
+		5D3E063B2339B62B00018C49 /* ronaldinho.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D3E06312339B62B00018C49 /* ronaldinho.jpg */; };
+		5D3E063C2339B62B00018C49 /* lewandowski.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D3E06322339B62B00018C49 /* lewandowski.jpg */; };
+		5D3E063E2339B70C00018C49 /* mainImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D3E063D2339B70C00018C49 /* mainImage.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +35,17 @@
 		5D3E061D2339AF6F00018C49 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D3E06202339AF6F00018C49 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5D3E06222339AF6F00018C49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D3E06292339B62B00018C49 /* cristianoRonaldo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cristianoRonaldo.jpg; path = ../../cristianoRonaldo.jpg; sourceTree = "<group>"; };
+		5D3E062A2339B62B00018C49 /* messi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = messi.jpg; path = ../../messi.jpg; sourceTree = "<group>"; };
+		5D3E062B2339B62B00018C49 /* modric.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = modric.jpg; path = ../../modric.jpg; sourceTree = "<group>"; };
+		5D3E062C2339B62B00018C49 /* jamesRodriguez.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = jamesRodriguez.jpg; path = ../../jamesRodriguez.jpg; sourceTree = "<group>"; };
+		5D3E062D2339B62B00018C49 /* suarez.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = suarez.jpg; path = ../../suarez.jpg; sourceTree = "<group>"; };
+		5D3E062E2339B62B00018C49 /* diegoMaradona.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = diegoMaradona.jpg; path = ../../diegoMaradona.jpg; sourceTree = "<group>"; };
+		5D3E062F2339B62B00018C49 /* neymar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = neymar.jpg; path = ../../neymar.jpg; sourceTree = "<group>"; };
+		5D3E06302339B62B00018C49 /* pele.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = pele.jpg; path = ../../pele.jpg; sourceTree = "<group>"; };
+		5D3E06312339B62B00018C49 /* ronaldinho.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ronaldinho.jpg; path = ../../ronaldinho.jpg; sourceTree = "<group>"; };
+		5D3E06322339B62B00018C49 /* lewandowski.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = lewandowski.jpg; path = ../../lewandowski.jpg; sourceTree = "<group>"; };
+		5D3E063D2339B70C00018C49 /* mainImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mainImage.jpg; path = ../../mainImage.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +62,7 @@
 		5D3E06082339AF6E00018C49 = {
 			isa = PBXGroup;
 			children = (
+				5D3E06282339B5AF00018C49 /* images */,
 				5D3E06132339AF6E00018C49 /* MyFavBands */,
 				5D3E06122339AF6E00018C49 /* Products */,
 			);
@@ -65,6 +88,24 @@
 				5D3E06222339AF6F00018C49 /* Info.plist */,
 			);
 			path = MyFavBands;
+			sourceTree = "<group>";
+		};
+		5D3E06282339B5AF00018C49 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				5D3E063D2339B70C00018C49 /* mainImage.jpg */,
+				5D3E06292339B62B00018C49 /* cristianoRonaldo.jpg */,
+				5D3E062E2339B62B00018C49 /* diegoMaradona.jpg */,
+				5D3E062C2339B62B00018C49 /* jamesRodriguez.jpg */,
+				5D3E06322339B62B00018C49 /* lewandowski.jpg */,
+				5D3E062A2339B62B00018C49 /* messi.jpg */,
+				5D3E062B2339B62B00018C49 /* modric.jpg */,
+				5D3E062F2339B62B00018C49 /* neymar.jpg */,
+				5D3E06302339B62B00018C49 /* pele.jpg */,
+				5D3E06312339B62B00018C49 /* ronaldinho.jpg */,
+				5D3E062D2339B62B00018C49 /* suarez.jpg */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +166,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D3E06362339B62B00018C49 /* jamesRodriguez.jpg in Resources */,
 				5D3E06212339AF6F00018C49 /* LaunchScreen.storyboard in Resources */,
+				5D3E063E2339B70C00018C49 /* mainImage.jpg in Resources */,
+				5D3E06352339B62B00018C49 /* modric.jpg in Resources */,
+				5D3E06372339B62B00018C49 /* suarez.jpg in Resources */,
 				5D3E061E2339AF6F00018C49 /* Assets.xcassets in Resources */,
+				5D3E063C2339B62B00018C49 /* lewandowski.jpg in Resources */,
+				5D3E06332339B62B00018C49 /* cristianoRonaldo.jpg in Resources */,
 				5D3E061C2339AF6E00018C49 /* Main.storyboard in Resources */,
+				5D3E063B2339B62B00018C49 /* ronaldinho.jpg in Resources */,
+				5D3E063A2339B62B00018C49 /* pele.jpg in Resources */,
+				5D3E06382339B62B00018C49 /* diegoMaradona.jpg in Resources */,
+				5D3E06342339B62B00018C49 /* messi.jpg in Resources */,
+				5D3E06392339B62B00018C49 /* neymar.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
